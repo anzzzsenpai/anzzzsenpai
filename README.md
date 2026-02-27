@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="header.png" alt="Anzzz Header">
+  <img src="github-header-banner.png" alt="Anzzz Header">
 </p>
